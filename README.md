@@ -139,4 +139,4 @@ npm run dev
 ## 👤 Author
 
 - **Mostafa ELFAR**
-- Project developed for **CodeAlpha** Internship
+
